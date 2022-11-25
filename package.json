@@ -1,0 +1,38 @@
+{
+  "name": "react-base-table",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.tsx",
+  "dependencies": {
+    "@atlaskit/inline-edit": "12.1.1",
+    "@atlaskit/textfield": "5.1.1",
+    "@atlaskit/theme": "11.5.1",
+    "faker": "5.5.3",
+    "react": "^16.12.0",
+    "react-base-table": "1.12.0",
+    "react-dom": "^16.12.0",
+    "react-overlays": "5.1.1",
+    "react-scripts": "3.3.0",
+    "react-sortable-hoc": "2.0.0",
+    "react-texty": "0.6.0",
+    "styled-components": "5.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "16.9.19",
+    "@types/react-dom": "16.9.5",
+    "typescript": "3.7.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
